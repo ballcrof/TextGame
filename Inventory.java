@@ -18,5 +18,6 @@ public class Inventory{
   public void display(){
     System.out.println("\n" + player.Name() + "\nWeapon: " + main_weapon.weaponType() + "\nDamage: " + main_weapon.damage() + "\n");
   }
+  
 
 }
